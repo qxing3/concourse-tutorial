@@ -1,0 +1,14 @@
+---
+
+platform: linux
+
+inputs:
+- name: resource-tutorial
+- name: resource-gist
+
+outputs:
+- name: updated-gist
+
+
+run:
+  path: resource-tutorial/tutorials/basic/publishing-outputs/bump-timestamp-file.sh

@@ -1,0 +1,2 @@
+docker-registry-concourse: 10.200.200.90:443/generic/concourse
+docker-registry: 10.200.200.90:443
